@@ -32,9 +32,9 @@ This page contains mods that can replace the functionality of OptiFine.
 * OptiGUI ([Fabric](https://modrinth.com/mod/optigui)) - interface modification support via resourcepacks
 * Animatica ([Fabric](https://modrinth.com/mod/animatica), [Forge](https://www.curseforge.com/minecraft/mc-mods/animaticareforged)) - interface animation support via OptiFine resourcespacks
 * MoreMCmeta ([Forge/Fabric](https://modrinth.com/mod/moremcmeta)) - OptiFine animations and animated textures support (Animatica alternative)
-* Colormatic ([Fabric](https://modrinth.com/mod/colormatic)) - OptiFine Custom Colors
+* Colormatic ([Fabric](https://modrinth.com/mod/colormatic), [Forge](https://modrinth.com/mod/polytone)) - OptiFine Custom Colors
 * Entity Model Features ([Forge/Fabric](https://modrinth.com/mod/entity-model-features)) - OptiFine Custom Entity Models
-* CIT Resewn ([Fabric](https://modrinth.com/mod/cit-resewn)) - OptiFine Custom Item Textures
+* CIT Resewn ([Fabric](https://modrinth.com/mod/cit-resewn), [Forge](https://www.curseforge.com/minecraft/mc-mods/cit-reforged), [Forge (another port)](https://www.curseforge.com/minecraft/mc-mods/forge-cit)) - OptiFine Custom Item Textures
 * Entity Texture Features ([Forge/Fabric](https://modrinth.com/mod/entitytexturefeatures)) - OptiFine Custom Entity Textures and Random Entity Textures
 * Continuity ([Fabric](https://modrinth.com/mod/continuity), [Forge](https://modrinth.com/mod/connectedness)) - OptiFine Connected Textures
 
